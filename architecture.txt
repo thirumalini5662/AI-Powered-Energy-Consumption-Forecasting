@@ -1,0 +1,1 @@
+Energy CSV -> Cleaning -> Feature engineering -> Random Forest -> Evaluation -> Forecast dashboard
